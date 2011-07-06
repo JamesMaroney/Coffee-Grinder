@@ -1,0 +1,4 @@
+Coffee-Grinder is a minimalistic "compile-on-save" coffeescript compiler.
+
+Run coffee-grinder.exe in any directory to watch that tree for file events on all *.coffee files. The coffeescript files will be compiled into javascript files that sit right beside the original coffeescript.
+
