@@ -1,0 +1,13 @@
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\Tests.dll
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\Tests.pdb
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\coffee-grinder.exe
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\Moq.dll
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\NSpec.dll
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\nunit.framework.dll
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\Jurassic.dll
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\coffee-grinder.pdb
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\Moq.pdb
+C:\Projects\stuff\coffee-grinder\Tests\bin\Release\Moq.xml
+C:\Projects\stuff\coffee-grinder\Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\stuff\coffee-grinder\Tests\obj\Release\Tests.dll
+C:\Projects\stuff\coffee-grinder\Tests\obj\Release\Tests.pdb

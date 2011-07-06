@@ -1,0 +1,9 @@
+C:\Projects\stuff\coffee-grinder\coffee-grinder\bin\Release\coffee-grinder.exe
+C:\Projects\stuff\coffee-grinder\coffee-grinder\bin\Release\coffee-grinder.pdb
+C:\Projects\stuff\coffee-grinder\coffee-grinder\bin\Release\Jurassic.dll
+C:\Projects\stuff\coffee-grinder\coffee-grinder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\stuff\coffee-grinder\coffee-grinder\obj\x86\Release\coffee_grinder.Resources.resources
+C:\Projects\stuff\coffee-grinder\coffee-grinder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Projects\stuff\coffee-grinder\coffee-grinder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Projects\stuff\coffee-grinder\coffee-grinder\obj\x86\Release\coffee-grinder.exe
+C:\Projects\stuff\coffee-grinder\coffee-grinder\obj\x86\Release\coffee-grinder.pdb
